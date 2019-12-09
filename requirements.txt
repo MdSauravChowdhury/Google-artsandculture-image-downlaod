@@ -1,0 +1,4 @@
+pycryptodome
+lxml
+Pillow
+aiohttp
